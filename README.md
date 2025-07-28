@@ -1,9 +1,6 @@
-# KaliPWM
+# GhostPWM
 
 Despliega un entorno de hacking profesional para Kali Linux ejecutando solo un script.
-
-![kalipwm-1](https://github.com/user-attachments/assets/0e11571f-7c71-416f-9bb8-32ab9c47d015)
-![kalipwm-2](https://github.com/user-attachments/assets/b67853d2-922d-4303-90a8-4fbc2564555a)
 
 ## Instalación y uso
 
@@ -81,12 +78,12 @@ Neovim
 ```
 
 ## Créditos
-- Autor:       afsh4ck 
-- Instagram:   <a href="https://www.instagram.com/afsh4ck">afsh4ck</a>
-- Youtube:     <a href="https://youtube.com/@afsh4ck">afsh4ck</a>
+- Autor:       Ghost 
+- Instagram:   <a href="https://www.instagram.com/angel_low03/">Ghost</a>
+- Tiktok:     <a href="https://www.tiktok.com/@ghost_zzz03">Ghost</a>
 
 ## Soporte
 
-<a href="https://www.buymeacoffee.com/afsh4ck" rel="nofollow"><img width="250" align="left">
+<a href="https://ko-fi.com/f4ntasma" rel="nofollow"><img width="250" align="left">
 ![buy-me-a-coffe](https://github.com/user-attachments/assets/8c8f9e81-334e-469e-b25e-29888cfc9fcc)
 </a>
