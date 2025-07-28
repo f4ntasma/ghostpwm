@@ -8,14 +8,13 @@ Despliega un entorno de hacking profesional para Kali Linux ejecutando solo un s
 - Testado en Kali Linux 2025.1 con VMware, VirtualBox y Bare Metal.
 
 ```
-git clone https://github.com/afsh4ck/kalipwm.git
-cd kalipwm
+git clone https://github.com/f4ntasma/ghostpwm.git
+cd ghostpwm
 bash kalipwm.sh
 sudo reboot
 ```
 - Una vez reiniciado cambia a bspwm en la pantalla de inicio de sesión
 - El fondo de pantalla se toma de ~/Wallpapers/wallpaper.*
-- Video completo del entorno: https://youtu.be/3clLjO8W7Q4?si=GupOi6Bqwuu2O9Wk
 
 ## Comandos
 
